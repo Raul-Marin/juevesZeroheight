@@ -1,0 +1,138 @@
+{
+  "Feedback": {
+    "Blue-base": {
+      "$type": "color",
+      "$value": "#2c67c1",
+      "$description": "Use this color to give informational feedback to the user. Apply it to icons."
+    },
+    "Blue-dark": {
+      "$type": "color",
+      "$value": "#23529a",
+      "$description": "Use this color to give informational feedback to the user. Apply it to plain text, text inside a positive alert, and icons."
+    },
+    "Blue-light": {
+      "$type": "color",
+      "$value": "#e0e8f6",
+      "$description": "Use this color to give informational feedback to the user. Apply it to backgrounds."
+    },
+    "Green-base": {
+      "$type": "color",
+      "$value": "#24b275",
+      "$description": "This color is used for success assets (picto’s and icons). We also use this color for topics related with sustainable energy."
+    },
+    "Green-dark": {
+      "$type": "color",
+      "$value": "#1f6b49",
+      "$description": "This color is used for success messages (text). We also use this color for topics related with sustainable energy."
+    },
+    "Green-light": {
+      "$type": "color",
+      "$value": "#d3f0e3",
+      "$description": "This color is used for success messages (background). We also use this color for topics related with sustainable energy."
+    },
+    "Orange-base": {
+      "$type": "color",
+      "$value": "#f06b18",
+      "$description": "This color is part of the gradient and CANNOT be used for any other reason."
+    },
+    "Orange-dark": {
+      "$type": "color",
+      "$value": "#b45012",
+      "$description": "This color is used for links inside alerts that are warning."
+    },
+    "Red-base": {
+      "$type": "color",
+      "$value": "#d12929",
+      "$description": "Use this color to give feedback to the user when something have errors. Apply it to plain text, text inside an alert, box borders, inputs, and icons."
+    },
+    "Red-dark": {
+      "$type": "color",
+      "$value": "#a72121",
+      "$description": "Use this color to give feedback to the user when something  have errors. Apply it to plain text, text inside an alert, box-borders, inputs, and icons."
+    },
+    "Red-light": {
+      "$type": "color",
+      "$value": "#f6d4d4",
+      "$description": "Use this color to give feedback to the user when something have errors. Apply only to backgrounds."
+    },
+    "Yellow-base": {
+      "$type": "color",
+      "$value": "#ffc621",
+      "$description": "Color used for color warning icons and as part of the corporative gradient. This color CANNOT be used for other purposes."
+    },
+    "Yellow-light": {
+      "$type": "color",
+      "$value": "#fff4d3",
+      "$description": "Use this color to give feedback to the user when something needs their attention. Apply it to alert background and, sporadically, illustrations."
+    }
+  },
+  "Gray Scale": {
+    "Gray-base": {
+      "$type": "color",
+      "$value": "#65717e",
+      "$description": "Color used as muted text, as disabled state in very much all elements. Can also be used as icon color."
+    },
+    "Gray-dark": {
+      "$type": "color",
+      "$value": "#37424d",
+      "$description": "Color used for text paragraphs, headings and icon shapes. It's also used in footers. It’s the main color for paragraphs, except when the background image requires higher contrast with text; in that case, we will user gray-darker."
+    },
+    "Gray-darker": {
+      "$type": "color",
+      "$value": "#262e36",
+      "$description": "Blackest gray. This color is used for paragraphs, headings and icon shapes. This can also be used as background, but it must be justified. It will usually be used for headings, and for paragraphs when the background image requires higher contrast with the text."
+    },
+    "Gray-light": {
+      "$type": "color",
+      "$value": "#d4d7db",
+      "$description": "This color is used as line separators, box-borders, section backgrounds, and icon backgrounds. Do not use as text-color for long paragraphs or large titles."
+    },
+    "Gray-lighter": {
+      "$type": "color",
+      "$value": "#f2f3f5",
+      "$description": "Lightest gray. Color used as page background."
+    },
+    "White-base": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "White-dark": {
+      "$type": "color",
+      "$value": "#f9f8f3",
+      "$description": "Color used for backgrounds and text over dark backgrounds."
+    }
+  },
+  "Others": {
+    "Brown-base": {
+      "$type": "color",
+      "$value": "#c8c0ab",
+      "$description": "Color used on shadows (fancy)."
+    },
+    "DarkOverlay": {
+      "$type": "color",
+      "$value": "#212121cc"
+    }
+  },
+  "Primary": {
+    "Pink-base": {
+      "$type": "color",
+      "$value": "#3b7b13",
+      "$description": "Holaluz corporative primary colour. It's used as accent color for interactive elements and call to action buttons. DO NOT use as color for headers and text without interaction."
+    },
+    "Pink-dark": {
+      "$type": "color",
+      "$value": "#9687f9",
+      "$description": "Holaluz coporative pink darker version. This color is primarly used to show different states of interactive elements (such as hover and active)."
+    },
+    "Pink-light": {
+      "$type": "color",
+      "$value": "#b7b0f8",
+      "$description": "Holaluz coporative pink lighter version. This color is normally used to show different states of interactive elements (such as hover and active)."
+    },
+    "Pink-lighter": {
+      "$type": "color",
+      "$value": "#1799f8",
+      "$description": "The lightest version of the Holaluz’s corporative pink tone. Use this color for callout and pill backgrounds, graphic charts and special border lines."
+    }
+  }
+}
