@@ -1,0 +1,15 @@
+{
+  "bg-default": {
+    "$type": "color",
+    "$value": "{Feedback.Green-base}",
+    "$description": "aaaaaaaaaa"
+  },
+  "bg-hover": {
+    "$type": "color",
+    "$value": "{Feedback.Orange-base}"
+  },
+  "font-size": {
+    "$type": "number",
+    "$value": 52
+  }
+}
